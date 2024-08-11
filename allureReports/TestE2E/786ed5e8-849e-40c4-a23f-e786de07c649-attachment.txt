@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_ProductE2EFlow.py:87 User is able to delete product
+[32mINFO    [0m root:test_ProductE2EFlow.py:90 Product gets deleted from cart

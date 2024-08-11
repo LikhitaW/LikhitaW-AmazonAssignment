@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_ProductE2EFlow.py:29 User is able to get message for non exist product

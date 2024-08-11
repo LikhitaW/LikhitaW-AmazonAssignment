@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_ProductE2EFlow.py:55 Product gets selected to add
+[32mINFO    [0m root:test_ProductE2EFlow.py:58 Cart is viewed
+[32mINFO    [0m root:test_ProductE2EFlow.py:61 Product gets added to cart successfully
